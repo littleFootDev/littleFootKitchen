@@ -1,0 +1,24 @@
+littleFootKichen : 
+☐ faire la maquette
+☐ uml de la base de donné
+✔ instalation d'express @done(21-09-07 20:25)
+✔ instalation de backpack @done(21-09-07 20:25)
+✔ instatlation de dotenv @done(21-09-07 20:26)
+✔ mise en place de la config minimum pour faire fonctionner le projet en es6 @done(21-09-07 20:36)
+☐ installer pug
+✔ instalation mongoose @done(21-09-07 20:49)
+✔ connection à mongo db @done(21-09-07 21:24)
+☐ utilisation de postman
+☐ ajouter la librairie cors
+☐ utilisation de jwt
+☐ utilisation de passport
+☐ ajouter libraie express-session et cookie parsser
+☐ utilisation de dot env
+✔ connection a github @done(21-09-07 20:25)
+
+structure du projet :
+☐ methode mvc
+☐ ajouter les routes (courses, subsciber, user etc)
+☐ modéle user 
+☐ modéle courses
+
