@@ -20,5 +20,5 @@ structure du projet :
 ☐ methode mvc
 ☐ ajouter les routes (courses, subsciber, user etc)
 ☐ modéle user 
-☐ modéle courses
+✔ modéle courses @done(21-09-08 11:52)
 
