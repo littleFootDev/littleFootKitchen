@@ -16,3 +16,5 @@ courseRoute.get("/:id", showCourse);
 courseRoute.get("/:id/edit", editCourse);
 courseRoute.post("/:id/update", updateCourse);
 courseRoute.get("/:id/delete", deleteCourse);
+
+export default courseRoute;

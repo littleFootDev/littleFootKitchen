@@ -2,7 +2,7 @@ import Course from "../models/courseModel";
 
 const index = async (req, res, next) => {
   try {
-    const courses = await Courses.find({});
+    const courses = await Course.find({});
 
     res.render("courses/index", { courses });
   } catch (err) {

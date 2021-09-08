@@ -5,10 +5,9 @@ littleFootKichen :
 ✔ instalation de backpack @done(21-09-07 20:25)
 ✔ instatlation de dotenv @done(21-09-07 20:26)
 ✔ mise en place de la config minimum pour faire fonctionner le projet en es6 @done(21-09-07 20:36)
-☐ installer pug
+✔ installer pug @done(21-09-08 18:33)
 ✔ instalation mongoose @done(21-09-07 20:49)
 ✔ connection à mongo db @done(21-09-07 21:24)
-☐ utilisation de postman
 ✔ ajouter la librairie cors @done(21-09-08 11:51)
 ☐ utilisation de jwt
 ☐ utilisation de passport
