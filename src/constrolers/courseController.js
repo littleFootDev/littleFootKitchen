@@ -73,3 +73,12 @@ const deleteCourse = async (req, res, next) => {
     next(err);
   }
 };
+
+export {
+  index,
+  createCourse,
+  showCourse,
+  updateCourse,
+  editCourse,
+  deleteCourse,
+};
